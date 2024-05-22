@@ -1,3 +1,5 @@
+#This repository is archived and will no longer receive updates.
+
 # LegendsBrowser Container
 
 This Dockerfile is a simple containerization of the [LegendsBrowser](https://github.com/robertjanetzko/LegendsBrowser) app created by [@robertjanetzko](https://github.com/robertjanetzko).  LegendsBrowser allows you to view your [DwarfFortress](http://www.bay12games.com/dwarves/) world's legends and histories in your browser.
